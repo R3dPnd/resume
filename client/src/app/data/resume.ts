@@ -13,7 +13,7 @@ export interface Certifiation {
 
 export interface Education {
     degree: string,
-    major: string,
+    major: string, 
     graduationDate: Date
 }
 
